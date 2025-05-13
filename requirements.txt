@@ -1,0 +1,8 @@
+opencv-python==4.7.0.72
+numpy==1.24.2
+pandas>=1.5.0
+Pillow==9.4.0
+imutils==0.5.4
+scipy==1.10.1
+tk==0.1.0
+tkvideoplayer==2.3
